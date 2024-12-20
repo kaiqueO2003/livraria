@@ -2,6 +2,7 @@ package com.projeto.livraria.entities;
 
 import jakarta.persistence.*;
 
+import com.projeto.livraria.entities.Role;
 import java.util.Set;
 import java.util.UUID;
 
